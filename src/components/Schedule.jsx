@@ -35,7 +35,7 @@ const Schedule = () => (
           </tr>
           <tr>
             <td>Domingo</td>
-            <td>09:00 - 12:00</td>
+            <td>09:00 - 13:00</td>
           </tr>
         </tbody>
       </table>
